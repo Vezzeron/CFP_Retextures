@@ -225,7 +225,7 @@ class cfgWeapons {
 			};
 		};
 	};
-	class TFT_OpsC_Uncovered_WNT : ItemCore {
+	/*class TFT_OpsC_Uncovered_WNT : ItemCore {
 		scope = 2;
 		weaponPoolAvailable = 1;
 		author = "TFT8";
@@ -246,7 +246,7 @@ class cfgWeapons {
 				};
 			};
 		};
-	};
+	};*/
 
 
 	// VSM Vests CFP Dependent Retextures...
